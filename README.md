@@ -1,6 +1,24 @@
 # 💫 About Me:
-## 👋 Hi, I'm Sameer Jangid<br><br>🎓 B.Tech CSE Student  <br>💻 Passionate Full-Stack Developer  <br>⚛️ Skilled in React, Next.js, and modern web technologies  <br>🧠 Currently improving Data Structures & Algorithms  <br><br>🔭 I’m currently working on:<br>- Full-stack web projects<br>- Learning backend with Next.js<br><br>🌱 I’m currently learning:<br>- Advanced React & Next.js<br>- System Design basics<br><br>📫 How to reach me:<br>- LinkedIn: https://www.linkedin.com/in/sameerjangid-5501753a0/<br>- GitHub: https://github.com/SAM129EER<br><br>⚡ Fun fact: I love building real-world projects and solving problems!
+Hi, I'm Sameer Jangid
 
+🎓 B.Tech CSE Student
+💻 Passionate Full-Stack Developer
+⚛️ Skilled in React, Next.js, and modern web technologies
+🧠 Currently improving Data Structures & Algorithms
+
+🔭 I’m currently working on:
+- Full-stack web projects
+- Learning backend with Next.js
+
+🌱 I’m currently learning:
+- Advanced React & Next.js
+- System Design basics
+
+📫 How to reach me:
+- LinkedIn: https://www.linkedin.com/in/sameerjangid-5501753a0/
+- GitHub: https://github.com/SAM129EER
+
+⚡ Fun fact: I love building real-world projects and solving problems!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sameerjangid77/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sameerjangid-5501753a0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/jangidsameer77) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jangidsameer77@gmail.com) 
